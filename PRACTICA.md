@@ -18,7 +18,7 @@ DiceDTO
 
 2. Encapsula el servicio en un actor que resuelva un comportamiento dependiendo del tipo del mensaje:
 
-*** simplemente pinta un log dependiendo del caso
+*** simplemente pinta un log dependiendo del caso ***
 
 ### Parte 2
 
