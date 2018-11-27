@@ -10,4 +10,6 @@ UserDTO
 DiceDTO
     + result
 
-2. Encapsula el servicio en un actor que resuelva un comportamiento dependiendo del tipo del mensaje    
+2. Encapsula el servicio en un actor que resuelva un comportamiento dependiendo del tipo del mensaje 
+
+   
