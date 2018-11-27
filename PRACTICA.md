@@ -22,6 +22,6 @@ DiceDTO
 
 ### Parte 2
 
-
+Levanta un actor diferente por cada tipo de mensaje
 
    
